@@ -1,0 +1,24 @@
+syllabus:
+  description: Guidance for Apache Kafka architecture, operations, and deployment choices.
+  topics:
+    - Kafka fundamentals:
+        - Brokers
+        - Topics and partitions
+        - Producers and consumers
+        - Consumer groups
+        - Replication and durability
+    - Kafka deployments:
+        - Managed Kafka services
+        - Non-managed Kafka on Kubernetes
+        - Strimzi Kafka Operator
+    - Kafka operations:
+        - Cluster upgrades
+        - Certificate management
+        - Authentication and authorization
+        - Observability
+        - Backup and disaster recovery
+    - Kafka ecosystem:
+        - Kafka Connect
+        - Kafka MirrorMaker 2
+        - Schema Registry
+        - Topic and user management
